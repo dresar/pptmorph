@@ -1,0 +1,4 @@
+# Target File: assets/slide_001/floating_data_sparks.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A delicate cluster of 3D floating digital energy sparks and micro neon cyan cubes hovering in an organic diagonal curve. Soft optical glow, bokeh depth, isolated on a pure pitch-black background with no borders, transparent cutout ready. 8k resolution, high dynamic range. Absolutely no text, no watermark, and no solid background objects.

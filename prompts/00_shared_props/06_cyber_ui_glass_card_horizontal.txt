@@ -1,0 +1,4 @@
+# Target: assets/shared/cyber_ui_glass_card.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A modern 3D UI presentation container card for PowerPoint slides. A single horizontal rectangular floating panel with smooth rounded corners, made of dark smoked frosted glass with a high degree of transparency. The border of the glass card is framed with a glowing neon cyan chamfered edge and subtle purple rim lights. The surface of the card is completely empty, clean, and blank, ready to have presentation text placed over it. The card floats centered in perspective against a solid, pure pitch-black background with no ground shadow touching the canvas borders, perfectly isolated for transparent cutout. 8k octane render, minimalist tech UI design. Absolutely no text, no sample words, no icons, no buttons, no watermark, and no background clutter.

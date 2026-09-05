@@ -1,0 +1,4 @@
+# Target File: assets/slide_006/percentage_halo_badge.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D circular glass badge with a floating neon cyan ring and blank translucent dark glass center. Centered in frame, isolated on a solid pitch-black background, 8k octane render. Absolutely no text, no numbers, no symbols, no watermark.

@@ -1,0 +1,4 @@
+# Target File: assets/slide_006/cyber_donut_chart.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D holographic pie donut chart floating in perspective. The ring is split into 3 segments made of glowing neon cyan, violet, and emerald-green translucent glass, with one segment elevated and floating slightly outward. Centered in frame, isolated on a solid pure pitch-black background, 8k resolution, clean cutout ready. Absolutely no text, no numbers, no percentages, no watermark.

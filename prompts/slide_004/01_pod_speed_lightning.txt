@@ -1,0 +1,4 @@
+# Target File: assets/slide_004/pod_speed_lightning.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single professional 3D graphic design icon asset for a presentation feature pillar representing extreme speed. A vertical futuristic capsule pod made of dark brushed titanium with a clear cylindrical frosted glass chamber. Floating inside the chamber is a glowing neon cyan 3D lightning bolt energy core emitting delicate electric plasma arcs. Centered in the frame, floating vertically, strictly isolated on a solid pitch-black background with no floor shadow touching the edges, perfect for transparent cutout. 8k resolution, Octane render, studio rim lighting. Absolutely no text, no letters, no words, no watermark, and no frame borders.

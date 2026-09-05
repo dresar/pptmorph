@@ -1,0 +1,4 @@
+# Target: assets/shared/floating_torus_ring.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single floating 3D holographic torus ring asset for presentation design. The torus ring is crafted from translucent optical glass that refracts a vibrant gradient of electric cyan, magenta, and deep violet neon light. Soft volumetric bloom radiates around the glossy curved tube. The object is perfectly centered and isolated on a solid, pitch-black background with no surface contacts or shadows touching the canvas edges, ready for transparent silhouette cutout. Octane Render 3D, 8k resolution, hyper-realistic glass shader. Absolutely no text, no typography, no watermark, no floor, and no background clutter.

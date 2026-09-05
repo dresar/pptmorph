@@ -1,0 +1,4 @@
+# Target File: assets/slide_004/pod_ai_brain.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single professional 3D graphic design icon asset for a presentation feature pillar representing artificial intelligence. A beveled floating cube made of dark smoked transparent glass. Inside the cube is a glowing 3D cybernetic human brain model illuminated by pulsing electric violet neural synapses and neon cyan data nodes. Centered in the frame, strictly isolated on a seamless, solid pitch-black background, clean transparent cutout ready. 8k resolution, raytraced glass and emission lighting. Absolutely no text, no typography, no watermark, and no background clutter.

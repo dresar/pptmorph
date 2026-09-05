@@ -1,0 +1,4 @@
+# Target File: assets/slide_007/constellation_mesh_grid.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A cluster of 3D glowing interconnected polygon nodes and data lines forming a floating network cloud in cyan and electric purple. Centered in frame, isolated on a seamless pitch-black background, 8k resolution, clean cutout ready. Absolutely no text, no letters, no watermark.

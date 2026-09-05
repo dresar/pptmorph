@@ -1,0 +1,4 @@
+# Target File: assets/slide_009/timeline_guide_rail.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D floating horizontal guide rail beam with 4 glowing milestone docking nodes illuminated in neon cyan and purple. Centered horizontally, isolated on a seamless pure black background, 8k resolution. Absolutely no text, no numbers, no letters, no watermark.

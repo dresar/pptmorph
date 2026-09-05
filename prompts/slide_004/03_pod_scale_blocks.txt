@@ -1,0 +1,4 @@
+# Target File: assets/slide_004/pod_scale_blocks.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single professional 3D graphic design icon asset for a presentation feature pillar representing cloud scalability. Three floating isometric modular server blocks stacked vertically with small air gaps between them. The blocks are sleek dark obsidian metal with glowing neon emerald-green and cyan indicator light strips and optical ribbon interconnects. Centered in the frame, floating at an isometric angle, isolated on a solid pure pitch-black background, ready for clean transparent cutout. 8k octane render, studio lighting. Absolutely no text, no numbers, no letters, no watermark, and no frame.

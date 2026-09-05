@@ -1,0 +1,4 @@
+# Target File: assets/slide_007/satellite_node.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D tech asset of a miniature futuristic orbital communication satellite. Constructed from dark titanium with sleek solar panel wings edged in glowing neon cyan and an active laser beacon transceiver emitting a fine purple beam. Centered in frame, floating at an angle, isolated on a solid pitch-black background, ready for clean transparent cutout. 8k resolution, studio lighting. Absolutely no text, no watermark, and no background clutter.

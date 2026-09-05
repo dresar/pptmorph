@@ -1,0 +1,4 @@
+# Target File: assets/slide_008/biometric_retina_disc.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D circular holographic scanner disc with concentric glowing cyan and violet laser rings and an abstract iris pattern in the center. Floating centered, isolated on a pure solid black background, 8k octane render. Absolutely no text, no typography, no watermark.

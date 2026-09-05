@@ -1,0 +1,4 @@
+# Target File: assets/slide_004/fiber_optic_beam.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single horizontal 3D luminous fiber optic beam with glowing cyan data nodes traveling through transparent glass casing. Centered horizontally, isolated on a pure pitch-black background, clean transparent cutout ready. 8k resolution. Absolutely no text, no watermark, no background clutter.

@@ -1,0 +1,4 @@
+# Target File: assets/slide_006/speedometer_gauge.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single professional 3D graphic design asset of a circular high-performance speedometer gauge for presentation metrics. The gauge features a dark smoked glass bezel with radial tick marks illuminated in neon cyan and electric violet. A glowing neon electric blue pointer needle points upward toward the maximum performance zone. Centered in the frame, isolated on a solid pitch-black background with clean edges, ready for transparent cutout. 8k resolution, photorealistic octane render. Absolutely no text, no numbers, no alphabet, no watermark, and no background clutter.

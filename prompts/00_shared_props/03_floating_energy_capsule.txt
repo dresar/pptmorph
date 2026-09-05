@@ -1,0 +1,4 @@
+# Target: assets/shared/floating_energy_capsule.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single, high-tech 3D graphic design asset of a floating futuristic energy capsule pill for a modern keynote presentation. The top and bottom caps of the capsule are made of brushed dark chrome, while the central cylinder is clear frosted glass containing glowing, swirling neon cyan plasma liquid with purple energy conduits. The capsule is tilted at an elegant 30-degree angle in the center of the frame, isolated on a pure solid black background with zero floor shadows, ideal for clean transparent background extraction. Studio product lighting, raytraced glass caustics, 8k resolution. Absolutely no text, no words, no letters, no labels, no watermark, and no frame.

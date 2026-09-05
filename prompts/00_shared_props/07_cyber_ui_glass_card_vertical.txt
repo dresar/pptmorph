@@ -1,0 +1,4 @@
+# Target: assets/shared/cyber_ui_glass_card_vertical.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single vertical rectangular 3D UI presentation card container with rounded corners. The panel is constructed from sleek dark frosted glass with semi-translucent properties, outlined with a razor-sharp glowing neon cyan and electric violet beveled light border. The interior face of the panel is completely blank and dark, designed as a placeholder for vertical bullet points. Centered composition, floating alone, isolated on a solid pitch-black background with clean edges for transparent cutout. 8k resolution, Cinema 4D UI asset. Absolutely no text, no placeholder writing, no icons, no watermark, and no frame borders.

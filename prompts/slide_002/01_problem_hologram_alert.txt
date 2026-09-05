@@ -1,0 +1,4 @@
+# Target File: assets/slide_002/problem_hologram_alert.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A dramatic 3D graphic design hero asset representing digital system failure and cyber vulnerability for a presentation slide. A single floating holographic diamond warning shield made of fragmented crimson red and amber neon laser glass. Floating inside the broken shield are sharp digital glitch shards and warning matrix nodes glowing with intense hazard red energy. The object is centered in the frame, floating dynamically, strictly isolated on a solid, pure pitch-black background with no floor shadows, perfectly formatted for transparent cutout. 8k resolution, Octane Render, cinematic high-contrast lighting. Absolutely no text, no words, no alphabet, no letters, no exclamation marks with letters, no watermark, and no frame borders.

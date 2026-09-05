@@ -1,0 +1,4 @@
+# Target: assets/shared/glowing_sparkle_particle.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single professional 3D graphic design element of a futuristic starburst sparkle particle for presentation slides. The particle is a faceted 3D diamond crystal star emitting a sharp, four-point optical light beam with a glowing neon cyan core and electric purple halo. It floats centered against a completely solid pitch-black background with no ambient bleed and no framing, ready for instant transparent cutout. High-resolution 8k digital asset, clean crisp edges, studio lighting. Absolutely no text, no words, no watermark, and no background elements.

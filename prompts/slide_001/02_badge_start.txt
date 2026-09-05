@@ -1,0 +1,4 @@
+# Target File: assets/slide_001/badge_start.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single professional 3D UI design asset of a circular futuristic system activation button badge. The frame is made of dark brushed titanium with a beveled rim illuminated by a continuous glowing neon cyan ring. In the center is a glowing 3D power icon made of electric violet laser glass. Centered in the frame, isolated on a solid pure pitch-black background with clean edges, ready for transparent cutout. 8k resolution, octane render, studio product lighting. Absolutely no text, no letters, no numbers, no watermark, and no frame borders.

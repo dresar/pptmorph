@@ -1,0 +1,4 @@
+# Target File: assets/slide_008/floating_cyber_key.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single professional 3D graphic design asset of a floating cryptographic digital security keycard. The card is made of dark smoked glass with gold and neon cyan etched micro-circuit pathways and an embedded glowing quantum cryptographic sensor chip. Centered in the frame, floating at an isometric angle, isolated on a solid pure pitch-black background, clean transparent cutout ready. 8k resolution, studio lighting. Absolutely no text, no letters, no watermark, and no background elements.

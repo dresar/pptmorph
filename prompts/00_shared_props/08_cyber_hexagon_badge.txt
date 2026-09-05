@@ -1,0 +1,4 @@
+# Target: assets/shared/cyber_hexagon_badge.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D futuristic holographic hexagonal badge floating in the center of the frame. Made of dark brushed titanium with a glowing neon cyan interior frame and a blank glossy dark glass center. Delicate micro-circuit lines are etched into the metallic rim with violet edge lighting. Perfectly isolated on a seamless pure solid black background with no floor shadows, ideal for transparent cutout. 8k photorealistic 3D render, studio lighting. Absolutely no text, no numbers, no alphabet, no watermark, and no complex background.

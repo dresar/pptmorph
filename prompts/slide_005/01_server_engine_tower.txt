@@ -1,0 +1,4 @@
+# Target File: assets/slide_005/server_engine_tower.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+Masterpiece 3D graphic design hero asset for a slide showcasing powerful backend infrastructure. A single massive, futuristic enterprise server tower monolith floating in space. Constructed from dark matte obsidian metal with vertical modular blade slots glowing with neon cyan indicator lights. Deep violet laser optical ribbons snake between the blade tiers. The top of the tower features an exposed liquid cooling chamber glowing with turquoise mist. Centered hero composition, floating vertically, strictly isolated on a solid, pure pitch-black background with no floor plane, perfectly formatted for transparent cutout. 8k resolution, Cinema 4D Octane render, dramatic studio rim lighting. Absolutely no text, no logos, no numbers, no alphabet, no watermark, and no frame borders.

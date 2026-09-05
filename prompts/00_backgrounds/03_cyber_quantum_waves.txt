@@ -1,0 +1,4 @@
+# Target: assets/backgrounds/cyber_quantum_waves.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A dynamic yet minimalist futuristic dark background in 16:9 aspect ratio for a luxury technology presentation. The scene depicts smooth, flowing ribbons of quantum energy in glowing cyan and ultraviolet shades undulating gently across the lower perimeter against a pure pitch-black obsidian backdrop. Delicate star-like cyber sparks drift through the dark space with soft volumetric bloom. High contrast, studio edge lighting, ultra-sharp rendering, 8k resolution, elegant modern graphic design layout. Completely empty center area ready for UI cards. Absolutely no text, no words, no typography, no frames, and no watermarks.

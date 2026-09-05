@@ -1,0 +1,4 @@
+# Target File: assets/slide_003/cyber_connector_line.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D graphic design asset of a horizontal futuristic modular data conduit pipe for presentation layout. The pipe features a dark titanium outer shell with an open center revealing a glowing neon cyan optical glass tube pulsing with purple data packets. Centered horizontally in the frame, isolated on a pure solid black background, ready for clean transparent background cutout. 8k resolution, studio lighting. Absolutely no text, no watermark, and no background elements.

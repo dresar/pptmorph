@@ -1,0 +1,4 @@
+# Target File: assets/slide_003/solution_quantum_cpu.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+Masterpiece 3D graphic design hero asset for a technology pitch deck slide presenting a groundbreaking solution. A single floating ultra-modern Quantum CPU microchip. The processor substrate is made of matte dark slate carbon, embedded with glowing neon cyan optical circuit traces and gold microscopic connectors. Suspended above the chip is a faceted, levitating transparent crystal heatsink glowing with a rich electric violet and cyan internal laser core. Centered in the frame, floating at an isometric hero angle, strictly isolated on a solid, pure pitch-black background with no floor shadows, perfectly formatted for transparent cutout. 8k resolution, Cinema 4D Octane render, raytraced photorealism. Absolutely no text, no brand names, no numbers, no letters, no watermark, and no frame borders.

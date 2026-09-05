@@ -1,0 +1,4 @@
+# Target File: assets/slide_002/broken_circuit_node.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D graphic asset of a severed, disconnected high-tech cybernetic conduit cable. From the fractured metallic core, bright electrical plasma sparks and neon crimson and blue electrical arcs leap into the air. Centered in frame, isolated on a solid pure pitch-black background with clean cutout edges, ready for transparent PNG extraction. 8k octane render, studio lighting. Absolutely no text, no typography, no watermark, and no background clutter.

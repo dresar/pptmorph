@@ -1,0 +1,4 @@
+# Target File: assets/slide_005/floating_data_stream.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single dynamic 3D graphic design element of an S-curved holographic data ribbon wave. The ribbon is made of glossy smoked glass with streams of glowing neon cyan and electric violet fiber optic lines running along its surface. Centered composition, floating gracefully, isolated on a solid pure pitch-black background with clean cutout edges, ready for transparent extraction. 8k resolution, octane render, studio lighting. Absolutely no text, no letters, no watermark, and no background objects.

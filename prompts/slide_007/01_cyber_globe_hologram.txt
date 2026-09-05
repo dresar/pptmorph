@@ -1,0 +1,4 @@
+# Target File: assets/slide_007/cyber_globe_hologram.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+Masterpiece 3D graphic design hero asset for a global reach presentation slide. A single, centered floating holographic digital Earth globe. The sphere consists of dark translucent obsidian ocean glass, with glowing neon cyan continental wireframe outlines. Orbiting around the globe are luminous satellite communication arcs and bright electric violet interconnecting data hub nodes glowing on major city points. The globe floats centered in space, strictly isolated on a solid, pure pitch-black background with no floor plane and no shadows touching the canvas edges, perfect for transparent cutout. 8k resolution, Cinema 4D Octane render, cinematic lighting. Absolutely no text, no country names, no words, no letters, no watermark, and no frame borders.

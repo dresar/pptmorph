@@ -1,0 +1,4 @@
+# Target File: assets/slide_001/cyber_logo_emblem.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D abstract futuristic corporate emblem for a technology presentation cover. Geometric winged crest made of faceted dark obsidian chrome and illuminated glowing neon cyan glass panels with purple light reflections. Floating centered in the frame, isolated on a pure solid black background with crisp transparent cutout silhouette, no floor plane. 8k octane render, studio lighting. Absolutely no text, no typography, no letters, no watermark, and no background elements.

@@ -1,0 +1,4 @@
+# Target File: assets/slide_005/optical_cooling_fan.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D circular cybernetic turbine fan with glowing neon cyan blades inside a dark metallic housing with violet rim glow. Centered in frame, isolated on a seamless pure black background, 8k resolution, studio lighting. Absolutely no text, no typography, no watermark.

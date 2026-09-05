@@ -1,0 +1,4 @@
+# Target File: assets/slide_010/cta_glowing_button.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A modern 3D UI graphic design asset for a PowerPoint slide call-to-action button. A single horizontal pill-shaped floating button frame with a beveled glowing neon cyan outer border and a dark smoked glossy glass center. Soft electric violet light catches the top glass edge. The surface inside the button is completely empty, dark, and blank, ready to have action text placed over it. Centered in the frame, isolated on a seamless, solid pure pitch-black background with clean transparent cutout ready. 8k octane render, studio product lighting. Absolutely no text, no sample words, no icons, no watermark, and no background clutter.

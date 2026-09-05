@@ -1,0 +1,4 @@
+# Target: assets/backgrounds/cyber_mesh_dark.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A premium dark mode presentation background in 16:9 widescreen ratio, designed for professional technology pitch decks. The background features a smooth, deep midnight blue to pitch-black gradient backdrop. Elegant, thin, glowing neon cyan and electric purple optical fiber curves flow smoothly along the edges, casting a soft futuristic illumination. Distant blurred bokeh particles and a subtle dark hexagonal grid texture add depth without distracting from foreground content. The center is spacious and dark, optimized for placing text and presentation containers. 8k resolution, Cinema 4D octane render aesthetic, ultra clean, high dynamic range. Absolutely no text, no letters, no numbers, no logo, no labels, and no watermark.

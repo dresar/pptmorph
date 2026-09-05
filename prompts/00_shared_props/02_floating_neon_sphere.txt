@@ -1,0 +1,4 @@
+# Target: assets/shared/floating_neon_sphere.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A professional 3D presentation asset depicting a single, centered floating metallic sphere. The core sphere is made of polished dark titanium and smoked glass, encircled by two concentric, orbiting glowing neon cyan and electric magenta holographic gyroscope rings. Tiny glowing cybernetic energy dust particles float gently around the sphere. Studio edge lighting highlights the glossy metallic surface with vibrant raytraced reflections. The object is floating alone in the center and is strictly isolated on a solid pitch-black background with no ground plane and no border shadows, designed for easy PNG cutout. 8k resolution, Cinema 4D octane render, ultra sharp. Absolutely no text, no typography, no watermark, no human hands, and no complex background.

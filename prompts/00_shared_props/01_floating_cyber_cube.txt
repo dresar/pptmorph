@@ -1,0 +1,4 @@
+# Target: assets/shared/floating_cyber_cube.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A high-end 3D graphic design asset for a futuristic dark-mode presentation slide. The image features a single, centered floating isometric cube made of semi-transparent frosted glassmorphism material. Inside the translucent cube, glowing neon cyan micro-circuits and an electric violet energy core pulse with light. The bevelled edges of the glass catch subtle purple rim lighting. The entire object floats in the center of the frame and is completely isolated on a seamless, solid pure pitch-black background with no other objects and no floor shadows touching the edges, perfectly framed for transparent cutout. Photorealistic 3D render in Octane Render style, 8k resolution, hyper-detailed, clean silhouette. Absolutely no text, no letters, no words, no numbers, no labels, no watermark, and no frame borders.

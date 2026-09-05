@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-08-18T16:55:33.886Z",
+  "assets": {
+    "backgrounds_cyber_grid_bg": {
+      "id": "backgrounds_cyber_grid_bg",
+      "sourcePromptFile": "00_backgrounds\\01_cyber_grid_bg.txt",
+      "destPath": "C:\\Users\\NCN0C\\Pictures\\PPTMORPH\\assets\\TEMPLATES 001\\backgrounds\\cyber_grid_bg.png",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "elapsedSeconds": 33,
+      "resolution": "1672x941",
+      "fileSizeKB": "1399.7",
+      "screenshotPath": "C:\\Users\\NCN0C\\Pictures\\PPTMORPH\\assets\\TEMPLATES 001\\backgrounds\\screenshot_cyber_grid_bg.png",
+      "completedAt": "2026-08-18T16:53:52.374Z",
+      "updatedAt": "2026-08-18T16:53:52.375Z"
+    },
+    "backgrounds_cyber_mesh_dark": {
+      "id": "backgrounds_cyber_mesh_dark",
+      "sourcePromptFile": "00_backgrounds\\02_cyber_mesh_dark.txt",
+      "destPath": "C:\\Users\\NCN0C\\Pictures\\PPTMORPH\\assets\\TEMPLATES 001\\backgrounds\\cyber_mesh_dark.png",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "elapsedSeconds": 39,
+      "resolution": "1672x941",
+      "fileSizeKB": "1481.1",
+      "screenshotPath": "C:\\Users\\NCN0C\\Pictures\\PPTMORPH\\assets\\TEMPLATES 001\\backgrounds\\screenshot_cyber_mesh_dark.png",
+      "completedAt": "2026-08-18T16:54:47.397Z",
+      "updatedAt": "2026-08-18T16:54:47.397Z"
+    },
+    "backgrounds_cyber_quantum_waves": {
+      "id": "backgrounds_cyber_quantum_waves",
+      "sourcePromptFile": "00_backgrounds\\03_cyber_quantum_waves.txt",
+      "destPath": "C:\\Users\\NCN0C\\Pictures\\PPTMORPH\\assets\\TEMPLATES 001\\backgrounds\\cyber_quantum_waves.png",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "elapsedSeconds": 31,
+      "resolution": "1672x941",
+      "fileSizeKB": "1373.5",
+      "screenshotPath": "C:\\Users\\NCN0C\\Pictures\\PPTMORPH\\assets\\TEMPLATES 001\\backgrounds\\screenshot_cyber_quantum_waves.png",
+      "completedAt": "2026-08-18T16:55:33.886Z",
+      "updatedAt": "2026-08-18T16:55:33.886Z"
+    }
+  }
+}

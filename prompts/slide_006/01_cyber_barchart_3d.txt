@@ -1,0 +1,4 @@
+# Target File: assets/slide_006/cyber_barchart_3d.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+Professional 3D infographic hero asset for a presentation slide highlighting impressive performance growth. A dynamic ascending 3D bar chart with 4 vertical rising pillars of increasing heights. The pillars are made of transparent acrylic frosted glass with glowing neon cyan and electric violet cores, capped with bright luminous rectangular tops. Beneath the pillars is a subtle floating holographic coordinate grid base. The asset is centered in the frame, floating in perspective, strictly isolated on a solid, pure pitch-black background with no floor shadows touching the canvas edges, perfectly prepared for transparent background cutout. 8k resolution, Octane render, studio lighting. Absolutely no text, no numbers, no percentages, no letters, no watermark, and no frame borders.

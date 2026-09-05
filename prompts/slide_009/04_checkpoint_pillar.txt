@@ -1,0 +1,4 @@
+# Target File: assets/slide_009/checkpoint_pillar.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single vertical 3D checkpoint beacon pillar made of dark obsidian with a glowing cyan crystal crown at the top. Centered in frame, floating vertically, isolated on a solid pitch-black background, 8k resolution. Absolutely no text, no typography, no watermark.

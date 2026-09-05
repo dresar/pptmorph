@@ -1,0 +1,4 @@
+# Target File: assets/slide_006/growth_trend_arrow.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D volumetric arrow curving dynamically upward and to the right, made of glowing neon cyan glass with purple edge refraction. Centered in frame, isolated on a solid pure black background, 8k resolution, studio rim lighting. Absolutely no text, no typography, no watermark.

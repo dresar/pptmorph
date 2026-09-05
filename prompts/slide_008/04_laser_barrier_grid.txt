@@ -1,0 +1,4 @@
+# Target File: assets/slide_008/laser_barrier_grid.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single floating 3D rectangular geometric laser grid barrier with pulsing neon purple laser nodes and cyan intersection points. Centered in frame, isolated on a solid pitch-black background, 8k resolution. Absolutely no text, no watermark, no background clutter.

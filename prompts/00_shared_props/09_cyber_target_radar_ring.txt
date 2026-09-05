@@ -1,0 +1,4 @@
+# Target: assets/shared/cyber_target_radar_ring.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D high-tech circular radar target ring asset for presentation slides. The asset consists of 3 concentric segmented rings made of glowing neon cyan and violet holographic laser lines, floating horizontally in perspective. Studio rim lighting, subtle optical glow, centered in frame, isolated on a solid pitch-black background with no borders and no shadows touching the edges. 8k resolution, crisp clean cutout ready. Absolutely no text, no numbers, no words, no watermark, and no background clutter.

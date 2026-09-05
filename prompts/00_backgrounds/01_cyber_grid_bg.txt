@@ -1,0 +1,4 @@
+# Target: assets/backgrounds/cyber_grid_bg.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A breathtaking, ultra-modern futuristic presentation background designed for an executive high-tech keynote, in 16:9 widescreen format. The scene features a deep obsidian black and dark navy blue atmospheric environment. On the bottom third, a subtle glowing perspective cyber grid floor made of glowing neon cyan lines recedes smoothly into a dark infinite horizon. Soft volumetric violet and electric cyan ambient light fog illuminates the upper canvas, creating a cinematic depth of field with subtle floating data dust particles. The entire middle and upper areas are kept clean, spacious, and minimalist to serve as a presentation slide canvas. Photorealistic 3D digital art, 8k resolution, raytraced lighting, sleek cyberpunk minimalism. Absolutely no text, no words, no letters, no typography, no floating icons, and no watermarks.

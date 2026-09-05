@@ -1,0 +1,4 @@
+# Target File: assets/slide_004/badge_step_ring.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single 3D floating circular holographic halo ring indicator for step numbers. Made of dark chrome and glowing cyan neon with 3 segmented glowing tick marks. Centered in frame, blank inner area, isolated on a pure solid black background. 8k resolution, studio lighting. Absolutely no text, no numbers, no words, no watermark.

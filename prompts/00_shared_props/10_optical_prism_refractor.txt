@@ -1,0 +1,4 @@
+# Target: assets/shared/optical_prism_refractor.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single floating 3D triangular optical glass prism asset for presentation design. Clear, flawless crystal glass dispersing a beam of neon cyan and electric purple laser light from within its multifaceted body. Centered in frame, floating at an isometric angle, strictly isolated on a solid pitch-black background with no floor plane. Octane Render 3D, 8k, raytracing caustics, clean cutout ready. Absolutely no text, no typography, no watermark, and no background objects.

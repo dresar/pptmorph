@@ -1,0 +1,4 @@
+# Target File: assets/slide_008/cyber_shield_vault.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+Masterpiece 3D graphic design hero asset for a cybersecurity and trust presentation slide. An impenetrable, futuristic cyber defense shield floating in the center of the frame. The shield is constructed from faceted dark titanium plates layered with glowing frosted neon cyan glass armor. Built into the center of the shield is a glowing quantum padlock mechanism with an electric violet optical core and laser grid mesh overlay. Centered hero composition, floating vertically, strictly isolated on a solid, pure pitch-black background with no floor shadows touching the canvas edges, perfectly formatted for transparent cutout. 8k resolution, Octane render, dramatic edge lighting. Absolutely no text, no words, no letters, no brand marks, no watermark, and no frame borders.

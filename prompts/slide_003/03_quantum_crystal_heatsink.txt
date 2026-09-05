@@ -1,0 +1,4 @@
+# Target File: assets/slide_003/quantum_crystal_heatsink.png
+# Prompt ChatGPT Images / DALL-E 3:
+
+A single floating 3D geometric crystal prism pulsing with stable cyan and violet energy, representing balanced quantum computing power. Centered in frame, isolated on a pure pitch-black background with crisp edges for transparent cutout. 8k octane render, studio lighting. Absolutely no text, no letters, no watermark, and no frame.
